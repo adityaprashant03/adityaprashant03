@@ -11,20 +11,34 @@
 - 🧩 I love solving complex problems and improving system design  
 - ⚡ Motto: *Always learning, always building, always improving.*
 
+## 🌍 Featured Project – **TripNext**
+🏠 **TripNext** is a complete **rental listing platform** where users can list and explore properties for rent.
+
+#### 🧩 Key Features
+- Add, edit, and delete property listings  
+- Image upload using **Cloudinary**  
+- Authentication & authorization with **Passport.js**  
+- Deployed using **Render** with **MongoDB Atlas**
+
+#### 🧰 Tech Stack
+**Node.js**, **Express.js**, **MongoDB**, **EJS**, **Cloudinary**, **Passport.js**, **Render**
+
+🔗 **Live Project:** [TripNext on Render](#)  
+🧠 *A complete full-stack experience built with dedication and 3 months of effort.*
+
 ---
 
 ### 🧠 Current Focus
-> 🪄 Learning **DSA with Java**  
-> ⚙️ Strengthening **Backend Architecture**  
-> 🧬 Exploring **Generative AI Integration**  
-> 🎯 Building strong foundations in **System Design & Algorithms**
+> 🪄 Learning **Data Structures & Algorithms (DSA)** with **Java**  
+> ⚙️ Strengthening **Backend Architecture** using **Spring Boot**  
+> 🎯 Exploring **Generative AI Integration** in web development  
+> 🧬 Enhancing **System Design** skills for scalability  
 
 ---
 
 ### 🎥 My YouTube Channel – [@ComputerKaKitanu](https://youtube.com/@computerkakitanu1975)
-🎓 On my channel, I share tutorials and explain tech concepts in simple language —  
-covering **C, JavaScript**, and **Web Development tips** for beginners.  
-I aim to help others learn the same way I did — *step by step, through practice and projects.*  
+🎓 I create short and simple tutorials on **HTML, CSS, JavaScript**, and **Web Development fundamentals**.  
+My goal is to help others learn **step-by-step**, just as I did — through **hands-on practice** and **real projects**.  
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@computerkakitanu1975)
 
