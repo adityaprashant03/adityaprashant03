@@ -57,7 +57,6 @@ My goal is to help others learn **step-by-step**, just as I did — through **ha
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 #### 🗄️ Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -76,7 +75,7 @@ My goal is to help others learn **step-by-step**, just as I did — through **ha
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Prashant-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/adityaprashant)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yourmail@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:adityaprashant21@gamil.com)
 [![YouTube](https://img.shields.io/badge/YouTube-ComputerKaKitanu-red?style=for-the-badge&logo=youtube)](https://youtube.com/@computerkakitanu1975)
 
 ---
